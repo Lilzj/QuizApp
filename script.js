@@ -59,7 +59,7 @@ var quizController = (function() {
         score: 0
     };
 
-    var adminFullName = ['Lilz', 'Josh'];
+    var adminFullName = ['admin', 'admin'];
 
     var personLocalStorage = {
 
